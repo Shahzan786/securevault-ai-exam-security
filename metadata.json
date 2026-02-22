@@ -1,0 +1,9 @@
+
+{
+  "name": "Zero-Trust Exam Security System",
+  "description": "A high-security, AI-driven examination paper lifecycle platform featuring face verification, continuous monitoring, and forensic leak detection.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
